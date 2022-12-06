@@ -1,0 +1,103 @@
+Apple Reports Q4 2010 Profit of $4.31 Billion on $20.34 Billion Revenue, Best Quarter Ever
+Monday October 18, 2010 1:19 pm PDT by Eric Slivka
+152516 apple logo
+Apple today announced financial results for the third calendar quarter and fourth fiscal quarter of 2010. For the quarter, Apple posted revenue of $20.34 billion and net quarterly profit of $4.31 billion, or $4.64 per diluted share, compared to revenue of $12.21 billion and net quarterly profit of $2.53 billion, or $2.77 per diluted share, in the year-ago quarter. Gross margin was 36.9 percent, compared to 41.8 percent in the year-ago quarter, and international sales accounted for 57 percent of the quarter's revenue.
+
+Apple shipped 3.89 million Macintosh computers during the quarter, a unit increase of 27 percent over the year-ago quarter. Quarterly iPhone unit sales reached 14.1 million, up 91 percent from the year-ago quarter, and the company also sold 9.05 million iPods during the quarter, representing 11 percent unit decline over the year-ago quarter. Apple also sold 4.19 million iPads during the quarter.
+
+
+
+"We are blown away to report over $20 billion in revenue and over $4 billion in after-tax earnings - both all-time records for Apple," said Steve Jobs, Apple's CEO. "iPhone sales of 14.1 million were up 91 percent year-over-year, handily beating the 12.1 million phones RIM sold in their most recent quarter. We still have a few surprises left for the remainder of this calendar year."
+
+Apple's guidance for the first quarter of fiscal 2011 includes expected revenue of $23 billion and earnings per diluted share of $4.80.
+
+Apple will provide live streaming of its Q4 2010 financial results conference call at 2:00 PM Pacific, and MacRumors will update this story with coverage of the conference call highlights.
+
+Conference Call Highlights:
+- CFO Peter Oppenheimer with summary: New all-time records for Mac, iPhone and iPad sales.
+- New Mac sales record by over 400,000 - double overall market growth. Double-digit growth in both desktop and portables, led by iMac, MacBook Pro, and MacBook.
+- Nearly 9.1 million iPods sold. Market share remains over 70% per NPD.
+- iTunes Store revenue over $1 billion for the quarter.
+- "Extremely pleased" with 14.1 million iPhones sold. iPhone revenue reached $8.82 billion, up 92 percent. Average selling price of $610.
+- iPhone has 166 carriers in 89 countries. Very pleased with response in China since recent launch.
+- Enterprise adoption of iPhone 4 continues to grow. 80% of Fortune 500 companies, up from 60% before iPhone 4 launch.
+- iPhone sales very strong, but could have sold more if supply had been available.
+- iPad sales strong. 65% of Fortune 100 companies using iPad. Expanding retail distribution and filling sales channels, but still below desired levels.
+- Have now passed 125 million total iOS devices sold.
+- iOS 4.2 coming in November with AirPrint and other features.
+- App Store: Over 200,000 registered developers. "Very happy" with iAd performance.
+- Retail store revenue at $3.75 billion. 874,000 Macs sold, up 30% year-over-year. 50% of sales to customers new to Mac.
+- First-day sales at new Beijing and Shanghai stores set new records.
+- Average revenue per store $11.8 million, up 52% year-over-year.
+- 74.5 million visitors during the quarter, up 62% year-over-year.
+- Fiscal 2011 will see focus on international expansion. 40-50 new stores, with over 50% outside U.S. Also replacing several U.S. stores.
+- Cash plus marketable securities at $51 billion, up $5.2 billion.
+- Fiscal 2010 saw over 13.6 million Macs sold, 40 million iPhones, nearly 7.5 million iPads, record revenue of over $65 billion. Earnings of $14 billion. 5x the revenue and 10x the earnings of five years ago.
+- Guidance: Revenue at $23 billion, gross margin at 36%, earnings of $4.80 per share.
+
+Steve Jobs on the call:
+- I couldn't help dropping by for our first $20+ billion quarter.
+- Discussing iPhone performance. Handily beat RIMM in their last quarter. We just passed RIMM, and we don't see them catching back up. They must move beyond their comfort zone and become a software company, and we don't see them being successful at it. They have a high mountain ahead of them.
+- What about Google? Apple activates 275,000 iOS devices per day, sometimes over 300,000. Unfortunately, no solid data on how many Android handsets shipped per quarter. Gartner says 10 million in June quarter, and we wait to see whether iPhone or Android won in the most recent quarter.
+- Discussing Google claiming Android is "open". We find this disingenuous. Android is fragmented.
+- "TwitterDeck" (probably TweetDeck) revealed that it had to contend with over 100 different versions of Android in developing its app. Compare to Apple with two different versions.
+- Amazon, Vodafone, and Verizon have announced creating their own Android app stores. A mess for users and developers. Contrast with Apple's integrated App Store.
+- Even if Google was right, open doesn't always win over closed. See Microsoft's "Plays for Sure" system that they were forced to scrap. Google flirted with integrated approach with Nexus One. Google's claims are a smokescreen for what is best for customers: integrated or fragmented. We believe integrated will trump fragmented every time. Users and developers will agree.
+- Commenting on avalanche of tablets heading to market. Just a handful of credible entrants. Almost all use 7" screen, compared to iPad at nearly 10" screen. 7" screen is only 45% as large as iPad's screen. Hold an iPad in portrait view and draw a horizontal line halfway down. What's left is a 7" screen...too small. There are clear limits to how close elements can be on the screen before users can't touch accurately. We believe 10-inch screen is minimum necessary.
+- All of these tablets are using Android, but Google is telling them it isn't ready for tablets and to wait until next year.
+- Even with smaller, less-expensive screens, competitors are having a hard time matching iPad pricing. We have tons of experience in design...we've designed everything on ours. The 7-inch tablets will be dead on arrival. Their manufacturers will learn the painful lesson and abandon them for larger sizes next year, abandoning customers and developers. Sounds like a lot of fun.
+
+Q&A:
+Q: Supply constraints on iPad...how severe? How fast will they improve?
+A: We got into balance in September. We got into situation at the end of the quarter where we can expand distribution. We'll be launching in new countries as the quarter goes on.
+
+
+Q: Headwinds for gross margins?
+A: Margins came down about half of what we thought they would because commodity and other costs came down, and iPhone sales better than expected.
+
+Q: How do you think about the iPad opportunity a year or two down the road in terms of size of business?
+A: Jobs: iPad is clearly going to affect notebook computers. It's a question of when, not if. Already seeing tremendous interest from education, and surprisingly, business. We haven't been pushing it with businesses, but they're tearing it out of our hands. We've got a tiger by the tail.
+
+Q: Could iPad be second-biggest business behind iPhone?
+A: Jobs: I try to report, not predict. But it's already outselling Macs.
+
+Q: What could true demand for iPhone have been?
+A: Demand is "absolutely staggering" in all countries. We had anticipated it going to a different level, but what we're seeing is even higher.
+
+Q: You are the tablet market right now. Like RIMM with the smartphone, can you hold onto market share?
+A: Jobs: We have a hard time seeing the strategies of our competitors. They're not matching us in pricing, and lack of Flash doesn't seem to be causing us difficulties. We're out to win this one.
+
+Q: Are smartphones a zero-sum game?
+A: Jobs: The vast majority of phones are non-smartphones. Many of those will convert to smartphones over the next few years. There will be room for some companies to have success, but will become closer to zero-sum game in time. It's a battle for mindshare right now, and iPhone and Android are winning that battle.
+
+Q: How is Apple TV going? Are you going to build on that streaming model with other products?
+A: Jobs: I don't talk about unreleased products. Apple TV is complete streaming. We've already sold over 250,000 of them, and we're thrilled with that. $99 price point is very enticing. We're really happy with how it's turned out.
+
+Q: Effect of bumper program on revenue and margin?
+A: Revenue deferral of $100 million; should be recognized in December quarter. Margin hit was not a surprise to us. High mix of iPhone 4 and iPad pinch margins a bit, but didn't better than we'd hoped.
+
+Q: Steve, you believe Apple should be able to outship Android when looking at all devices. What are the key risks you are managing?
+A: Our goal is to be the best. We're not the biggest...that's Nokia. We admire them, but don't aspire to be them. We want to make the best devices. Android is our biggest competitor. They outshipped us in the June quarter when we were caught in a transition, and we'll see about the September quarter. We'll be competing with them for quite some time, but we have very different approaches and we believe in ours. We think that's the winning approach in the end.
+
+
+Q: Aspirations for iPhone and iPad? Looking for a Mac-like model of lower market with higher prices and quality or iPod-like market dominance and low pricing?
+A: Jobs: Nokia makes $50 handsets. We don't know how to make great handsets at that price. So our goal is to make great breakthrough products but also drive costs down. As you know, we have low share in phones, and high share in tablets. But we don't think about it that way. We're not not making a 7-inch tablet because we don't want to hit a lower price point. We're just believe it's too small to hit the user experience people want. When we make decisions, it's not about cost, it's about value when you factor in the software. We're all about the best products at aggressive prices.
+
+Q: If the market moves toward lower-functionality smartphones with lower price points and you can't make a great phone at those prices, will you cede share?
+A: Jobs: You're looking at wrong. You're looking at it from a hardware perspective and you assume that the software will just come alive, but it won't. App developers have taken advantage of these products that came before and changing assumptions on developers will result in them not following you.
+
+Q: $50 billion in cash on your balance sheet. What is your aspiration for that cash and why not return some to shareholders?
+A: Jobs: Of course that's been proposed to us. We firmly believe that one or more unique strategic opportunities will present itself to us, and we'll be in a position to take advantage of it. We've been very disciplined, and will continue to be so.
+
+Q: Opportunities in enterprise? Marketing or sales changes you need to make to push this?
+A: Cook: 2/3 of the Fortune 100 are deploying or piloting iPad. I've never seen an adoption rate like this in enterprise. iPad also seeing adoption in K-12. Early data points look great. Have built and are building additional capacity to call on businesses. Also enabling carrier partners to do the same. See announcement by AT&T last week. iPhone has followed a similar trajectory, with 85% of Fortune 100 deploying or piloting. This isn't a hobby...we put a number of enterprise features in the OS, and building sales capabilities as well. Mac is also increasingly getting pulled into enterprise where employees themselves have decision-making capabilities. Maintaining focus on consumer, and these "enterprise consumers" are pulling the Macs in. We're not targeting with different machines.
+
+Q: Demand from new carrier to pick up iPhone 4? Pressure on subsidies?
+A: Cook: Pressure we're getting is on supply. Everyone we're doing business with wants more supply. We have 166 carrier relationships in 89 countries. That's a significant increase. Latest move was Germany, where we'll be launching with Vodafone and O2. iPhone 4 is in 85 of those 89 countries. I believe we will be in all 89 by end of the year.
+
+Q: Moving from exclusive to non-exclusive, have you given up anything on subsidies?
+A: Cook: We don't give details, but you can see our average selling price as remained above $600 as we've expanded distribution.
+
+
+Q: Where is your primary advantage in tablets?
+A: Jobs: We've designed everything from batteries to enclosures, and we've learned a lot from our prior experience. We know how to design and build in an efficient way. Others will have to source components from middlemen, while we design our own and build them directly.
